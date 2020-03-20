@@ -411,9 +411,8 @@ animation-delay:.2s;}
     #sql8{display: none;}
     #sql5{display: none;}
     #sql6{display: none;}
-    .thirdproject {margin-top: 150px; height: 130vh;}
+    .thirdproject {margin-top: 150px; height: 130vh; padding: 0 10;}
     #doodle{bottom: -30;}
-    .card-text {width: 100%;}
 }
   
 
